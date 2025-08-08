@@ -9,15 +9,21 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturfsales@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-ferreira-sales-26a927370) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/TurzimmGit)
 </div>
 
+<img
+ align="left"
+ alt="GitHub stats"
+ height="200"
+ style= "pdding-right:10 px"
+ src="https://github-readme-stats.vercel.app/api?username=turzimmgit&show_icons=true&theme=github_dark&include_all_commits=True"
+ />
+ 
+<img
+ align="left"
+ alt="GitHub stats"
+ height="200"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=turzimmgit&layout=compact&theme=github_dark"
+  />
 
----
-
-<p align="center">
-  <img src="https://github.com/TurzimmGit/TurzimmGit/blob/main/github-metrics.svg" alt="GitHub Metrics">
-</p>
-
-
----
 
 ## 🛠️ Tools & IDEs
 
