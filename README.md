@@ -33,9 +33,9 @@
 
 ## 👨‍💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" /></a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" /></a>
 
----
 <div align="center">
 
  *Made with care (and coffee ☕) by a Brazilian who loves to learn — sending you a big hug from here! 🇧🇷*
