@@ -10,7 +10,7 @@ My real name is **Artur Ferreia**
 
 ## 📊 Estatísticas GitHub
 
-| Métrica                  | Valor |
+| Metrics                  | Value |
 |--------------------------|-------|
 | Total Stars Earned        | 0   |
 | Total Commits (2025)      | 15    |
