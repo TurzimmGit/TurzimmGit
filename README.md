@@ -1,8 +1,12 @@
+<div align="center">
+
 # 👋 Hey! I'm Turzimm
 
-Developer, a young guy who wants to learn about almost everything I'm a book worm
+## Developer, a young guy who wants to learn about almost everything — I'm a bookworm
 
-My real name is **Artur Ferreia**
+## My real name is **Artur Ferreira**
+
+</div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturfsales@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-ferreira-sales-26a927370) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/TurzimmGit)
 
