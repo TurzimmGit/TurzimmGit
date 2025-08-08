@@ -12,17 +12,10 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+<p align="center">
+  <img src="https://github.com/TurzimmGit/TurzimmGit/blob/main/github-metrics.svg" alt="GitHub Metrics">
+</p>
 
-| Metrics                  | Value |
-|--------------------------|-------|
-| Total Stars Earned        | 0   |
-| Total Commits (2025)      | 15    |
-| Total PRs                 | 0     |
-| Total Issues              | 0     |
-| Contributed to (last year)| 0     |
-
-**GitHub Grade:** C
 
 ---
 
