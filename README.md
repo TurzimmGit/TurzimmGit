@@ -2,9 +2,9 @@
 
 # 👋 Hey! I'm Turzimm
 
-## Developer, a young guy who wants to learn about almost everything — I'm a bookworm
+ Developer, a young guy who wants to learn about almost everything — I'm a bookworm
 
-## My real name is **Artur Ferreira**
+ My real name is **Artur Ferreira**
 
 </div>
 
