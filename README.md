@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=turzimmgit&show_icons=true&theme=github_dark&include_all_commits=True&hide_title=true" height="115" />
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turzimmgit&layout=compact&theme=github_dark" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turzimmgit&layout=compact&theme=github_dark" height="141" />
 </p>
 
 
