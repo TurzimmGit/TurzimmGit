@@ -10,9 +10,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turzimmgit&show_icons=true&theme=react&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="115" />
+  <img src="https://github-readme-stats.vercel.app/api?username=turzimmgit&show_icons=true&theme=transparent&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="115" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turzimmgit&theme=react&hide_border=true&langs_count=6" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turzimmgit&theme=transparent&hide_border=true&langs_count=6" height="120" />
 </p>
 
 
