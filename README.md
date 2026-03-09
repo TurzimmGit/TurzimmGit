@@ -4,7 +4,7 @@
   <!-- ----- Apresentação ----- -->
 <p align="center">
   <b>Dev</b>, a young guy who wants to learn about almost everything — I'm a bookworm<br>
-  My real name is <b>Artur</b><br>
+  My real name is <b>Artur Ferreira</b><br>
   Information Systems Student @ UFMT | Aspiring Data Engineer & C/Python Developer<br>
   <br>
   🚀 Currently exploring Software Architecture and Data Structures<br>
