@@ -7,9 +7,9 @@
   My real name is <b>Artur</b><br>
   Information Systems Student @ UFMT | Aspiring Data Engineer & C/Python Developer<br>
   <br>
-  🚀 Currently exploring Software Architecture and Data Structures.<br>
-  🇨🇦 Aiming to bring technical expertise to the Canadian tech ecosystem.<br>
-  🎹 Piano player & History enthusiast.
+  🚀 Currently exploring Software Architecture and Data Structures<br>
+  🇨🇦 Aiming to bring technical expertise to the Canadian tech ecosystem<br>
+  🎹 Piano player & History enthusiast
 </p>
 
 <!-- ----- Contatos ----- -->
